@@ -1,6 +1,6 @@
-fisrt program
+fisrt [NUMBER18 change by user b] program
 
-CM Lab by Kanokphan Thananchai 57070501082
+CM Lab by Kanokphan Thananchai 57070501082 [NUMBER18 change by user b]
 
 change by Order number 13
 	by User A
